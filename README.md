@@ -1,6 +1,6 @@
-# Hello there 👋
+# Hi 👋
 
-I'm Kaustav, a Mechanical Engineering student with an interest in robotics, automation, manufacturing, simulation, and engineering systems.
+I'm Kaustav Dutta, a Mechanical Engineering student with an interest in robotics, automation, manufacturing, simulation, and engineering systems.
 
 I enjoy learning through projects and understanding how things work beyond the classroom. Most of the work on this profile comes from topics I've explored out of curiosity or while trying to build a deeper understanding of engineering.
 
