@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**duttakaustav/duttakaustav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kaustav, a Mechanical Engineering student with an interest in robotics, automation, manufacturing, simulation, and engineering systems.
 
-Here are some ideas to get you started:
+I enjoy learning through projects and understanding how things work beyond the classroom. Most of the work on this profile comes from topics I've explored out of curiosity or while trying to build a deeper understanding of engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Things I spend time working on:
+
+* Engineering projects
+* Simulations and analysis work
+* Learning experiments
+* Project notes and documentation
+
+I prefer projects that are practical, realistic, and useful. My goal is not to build the biggest portfolio, but to keep learning and gradually develop stronger engineering skills.
